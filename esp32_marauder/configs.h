@@ -348,7 +348,7 @@
 
   #ifdef MARAUDER_MULTIBOARD_S3
     #define HAS_TOUCH
-    #define TOUCH_TYPE_XPT2046
+    #define HAS_MINI_KB
     //#define HAS_FLIPPER_LED
     //#define FLIPPER_ZERO_HAT
     //#define HAS_BATTERY
