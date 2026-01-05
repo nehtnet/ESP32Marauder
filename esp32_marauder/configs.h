@@ -349,12 +349,12 @@
   #ifdef MARAUDER_MULTIBOARD_S3
     #define HAS_TOUCH
     #define TOUCH_TYPE_XPT2046
-    #define HAS_FLIPPER_LED
+    //#define HAS_FLIPPER_LED
     //#define FLIPPER_ZERO_HAT
     //#define HAS_BATTERY
     #define HAS_BT
     //#define HAS_BUTTONS
-    //#define HAS_NEOPIXEL_LED
+    #define HAS_NEOPIXEL_LED
     //#define HAS_PWR_MGMT
     #define HAS_SCREEN
     #define HAS_FULL_SCREEN
