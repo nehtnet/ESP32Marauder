@@ -348,6 +348,7 @@
 
   #ifdef MARAUDER_MULTIBOARD_S3
     #define HAS_TOUCH
+    #define TOUCH_TYPE_XPT2046
     #define HAS_FLIPPER_LED
     //#define FLIPPER_ZERO_HAT
     //#define HAS_BATTERY
@@ -1005,7 +1006,7 @@
       #define KIT_LED_BUILTIN 13
     #endif
 
-    #if defined(MARAUDER_V6) || defined(MARAUDER_V6_1)
+    #if defined(MARAUDER_V6) || defined(MARAUDER_V6_1) || defined(MARAUDER_MULTIBOARD_S3)
       #define CHAN_PER_PAGE 7
 
       #define SCREEN_CHAR_WIDTH 40
