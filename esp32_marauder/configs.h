@@ -18,7 +18,7 @@
   //#define MARAUDER_KIT
   //#define GENERIC_ESP32
   //#define MARAUDER_FLIPPER
-  //#define MARAUDER_MULTIBOARD_S3
+  #define MARAUDER_MULTIBOARD_S3
   //#define ESP32_LDDB
   //#define MARAUDER_DEV_BOARD_PRO
   //#define XIAO_ESP32_S3
