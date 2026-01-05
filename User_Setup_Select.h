@@ -21,7 +21,7 @@
 
 //#include <User_Setup.h>           // Default setup is root library folder
 
-//#include <User_Setup_og_marauder.h>
+#include <User_Setup_og_marauder.h>
 //#include <User_Setup_id_receiver.h>
 //#include <User_Setup_marauder_mini.h>
 //#include <User_Setup_marauder_rev_feather.h>
@@ -37,7 +37,7 @@
 //#include <User_Setup_marauder_m5cardputer.h>
 //#include <User_Setup_cyd_3_5_inch.h>
 
-#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
+//#include <User_Setups/Setup1_ILI9341.h>  // Setup file configured for my ILI9341
 //#include <User_Setups/Setup2_ST7735.h>   // Setup file configured for my ST7735
 //#include <User_Setups/Setup3_ILI9163.h>  // Setup file configured for my ILI9163
 //#include <User_Setups/Setup4_S6D02A1.h>  // Setup file configured for my S6D02A1
