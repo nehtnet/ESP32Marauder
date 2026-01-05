@@ -177,7 +177,7 @@
 
 // ESP32 Marauder 
 #define TFT_MISO 19
-#define TFT_MOSI 23
+#define TFT_MOSI 15 //gas/23
 #define TFT_SCLK 18
 #define TFT_CS   17  // Chip select control pin
 #define TFT_DC   16  // Data Command control pin
